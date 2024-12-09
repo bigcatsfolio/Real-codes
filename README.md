@@ -4,3 +4,5 @@ Pool of Programs and their real applications along with time and space complexit
 Efficiency : How well a solution uses resources like time , space and energy
 
 Optimization : Best Possible Solution by fine-tuning where resources can be compromised
+
+Note : A readable and maintainable program is more desirable than a slightly "optimized" but less clear version.
